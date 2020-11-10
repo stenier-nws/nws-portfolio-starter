@@ -14,3 +14,5 @@ Je conçois des interfaces web depuis 12 ans dans divers secteurs, en tant qu'UI
 J'interviens souvent pour faciliter le travail de réflexion avant projet et je prends plaisir à échanger avec les clients lors des différentes phases de conception.
 
 Je suis également formateur HTML / CSS / JS, responsive web design, design d'interfaces et sur le CMS Wordpress.
+
+Contactez-moi
