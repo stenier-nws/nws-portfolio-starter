@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "À propos"
 date: 2018-07-12T18:19:33+06:00
 heading : "Ensemble, construisons des projets web qui vous ressemblent & correspondent à vos besoins"
 description : "Bonjour, je suis Raphael Sanchez, artisan web basé à Rouen, entre Caen et Paris"
