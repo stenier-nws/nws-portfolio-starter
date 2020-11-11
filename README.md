@@ -4,7 +4,7 @@
 
 ## Live demo
 
-Découvrez la démo en direct :
+Découvrez la démo en direct : [https://nws-hugoportfoliostarter.netlify.app/](https://nws-hugoportfoliostarter.netlify.app/)
 
 ## Serveur local
 
