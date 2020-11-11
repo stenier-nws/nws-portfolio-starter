@@ -6,15 +6,25 @@
 
 Découvrez la démo en direct :
 
-## Installation
+## Serveur local
 
-  1. Télécharger le zip
-  2. Renommer le dossier (ex. "mon-portfolio")
-  3. Depuis votre terminal, rendez-vous dans votre dossier fraichement renommé
-     ```
-     cd mon-portfolio
-     ```
-  4. Créez votre site avec `hugo serve` et voyez le résultat sur `http://localhost:1313`
+Pour afficher votre site en local, il sufit de récupérer avec un git clone ou via Github Desktop.
+
+Via le terminal, placer le pointeur du terminal dans le repertoire de votre projet :
+
+```
+cd chemin/vers/votre/projet
+```
+
+Puis de lancer le serverur local de Hugo :
+
+```
+hugo serve
+```
+
+N'oublier de préfixer la commande hugo avec le chemin vers votre binaire si vous utilisez le binaire de Hugo (par exemple `../hugo serve` sur Macosx et Linux ou `..\hugo serve` sur Windows).
+
+Ouvrez votre novigateur web à l'adresse indiqué dans le terminal (http://localhost:1313 par défaut).
 
 
 ## Personnalisation des styles
