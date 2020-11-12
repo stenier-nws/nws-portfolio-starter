@@ -37,7 +37,7 @@ Ouvrez votre novigateur web à l'adresse indiqué dans le terminal (http://local
 
 ## Support
 
-Si vous avez des questions ou rencontrez des problèmes techniques, n'hésitez pas à me contacter r.sanchez@normandiewebschool.fr
+Si vous avez des questions ou rencontrez des problèmes techniques, n'hésitez pas à [créer une issue](https://github.com/raphaelsanchez/nws-portfolio-starter/issues)
 
 ## Licence
 
