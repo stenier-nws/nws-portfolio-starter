@@ -39,7 +39,9 @@ summarylength = 25
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
-  
+  # Stylesheet
+  css = ["css/custom.css", "css/test.css"]
+
   # Navbar Action Button
   [params.navAction]
     status  = true
